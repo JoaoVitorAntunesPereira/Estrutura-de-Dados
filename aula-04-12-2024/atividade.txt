@@ -1,0 +1,17 @@
+
+Abre: às 21:00 de quarta-feira, dia 4 de dezembro de 2024
+Vencimento: às 22:00 de quarta-feira, dia 11 de dezembro de 2024
+
+Faça um programa que implemente uma pilha com alocação dinâmica, para armazenar números inteiros.
+
+O usuário deve poder incluir quantos elementos desejar na pilha.
+
+As opções permitidas para o usuário são:
+
+1 - Empilhar um elemento (inserir na pilha)
+
+2 - Desempilhar um elemento (retirar o elemento do topo da pilha)
+
+3 - Imprimir o conteúdo da pilha.
+
+Deve ser postado o código fonte em C, compilável e funcionando, sem o uso de bibliotecas específicas de Windows.

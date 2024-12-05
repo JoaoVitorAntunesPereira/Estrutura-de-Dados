@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Makefile
+*.nix
+.replit
+replit_zip_error_log
